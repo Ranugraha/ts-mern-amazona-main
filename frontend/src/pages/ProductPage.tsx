@@ -1,0 +1,6 @@
+import { sampleProducts } from '../data';
+import React from 'react';
+
+export default function ProductPage() {
+  return <div>Product</div>;
+}
